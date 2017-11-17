@@ -1,0 +1,14 @@
+{
+  "name": "node-api-promisify",
+  "version": "1.0.0",
+  "description": "Promisify node build-in API",
+  "main": "index.js",
+  "repository": "https://github.com/kiu95/node-api-promisify.git",
+  "author": "Calvin Wong <calckw.kiu95@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-aftership": "^4.1.0",
+    "eslint-plugin-json": "^1.2.0"
+  }
+}

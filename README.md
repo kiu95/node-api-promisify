@@ -12,6 +12,10 @@ Since this module is using util.proisify, please use node version >= 8.0.0
 * support other node API
 * add unit test
 
+## Installation
+```
+npm install node-api-promisify
+```
 
 # Example
 ```javascript

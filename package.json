@@ -1,6 +1,6 @@
 {
   "name": "node-api-promisify",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Promisify node build-in API",
   "main": "index.js",
   "repository": "https://github.com/kiu95/node-api-promisify.git",

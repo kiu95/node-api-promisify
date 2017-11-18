@@ -8,6 +8,9 @@ Since this module is using util.proisify, please use node version >= 8.0.0
 * fs
 * (coming soon)
 
+## TODO
+* support other node API
+* add unit test
 
 
 # Example

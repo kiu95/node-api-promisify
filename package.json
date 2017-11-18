@@ -1,11 +1,17 @@
 {
   "name": "node-api-promisify",
-  "version": "0.0.2",
-  "description": "Promisify node build-in API",
+  "version": "0.1.1",
+  "description": "Promisify node build-in API (require node version >= 8.0.0)",
   "main": "index.js",
   "repository": "https://github.com/kiu95/node-api-promisify.git",
   "author": "Calvin Wong <calckw.kiu95@gmail.com>",
   "license": "MIT",
+  "keywords": [
+	  "promise",
+	  "promisify",
+	  "fs",
+	  "child_process"
+  ],
   "devDependencies": {
     "eslint": "^4.11.0",
     "eslint-config-aftership": "^4.1.0",
